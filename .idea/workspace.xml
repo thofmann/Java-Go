@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bf483d1-cd03-4739-aec7-8665a25b64a2" name="Default" comment="" />
+    <list default="true" id="4bf483d1-cd03-4739-aec7-8665a25b64a2" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\Java-Go.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoGame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoGame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoGame$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoGame$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoGame$StonePressed.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoGame.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoMenu$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoMenu$HumansButtonsListener.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoMenu$SizeButtonsListener.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\GoMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\Icons.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\Go\Tile.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\resources\blackstone.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\resources\blackstonecaptured.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\resources\blackterritory.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\resources\whitestone.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\resources\whitestonecaptured.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\MyDocs\IdeaProjects\Java-Go\out\production\Java-Go\resources\whiteterritory.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Go/GoDriver.java" afterPath="$PROJECT_DIR$/src/Go/GoDriver.java" />
+    </list>
     <ignored path="Java-Go.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/GoDriver.java" changelist="4bf483d1-cd03-4739-aec7-8665a25b64a2" time="1393209816137" ignored="false" />
+    <file path="/Dummy.txt" changelist="4bf483d1-cd03-4739-aec7-8665a25b64a2" time="1393210145342" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +159,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -226,6 +268,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -365,7 +408,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -381,7 +424,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67060083" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
